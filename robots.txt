@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kaskadia.co/sitemap.xml
+Sitemap: https://www.kaskadia.co/sitemap.xml
